@@ -1,3 +1,6 @@
+#Live vercel link
+https://study-notion-cwz4.vercel.app/
+
 #  StudyNotion – EdTech Web App (React + Bootstrap)
 
 > A fully responsive, feature-rich frontend EdTech platform built with React, Bootstrap CSS, and modern UI design principles.
