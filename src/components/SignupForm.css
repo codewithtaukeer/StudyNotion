@@ -1,0 +1,17 @@
+.eye {
+  position: absolute;
+  right: 0.75rem;
+  top: 1rem;
+  transform: translateY(-50%);
+  cursor: pointer;
+  color: #6c757d;
+}
+
+input {
+  color: white;
+  background-color: grey;
+}
+
+input::placeholder {
+  color: white;
+}
